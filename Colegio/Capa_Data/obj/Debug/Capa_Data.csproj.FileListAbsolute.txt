@@ -1,0 +1,12 @@
+C:\Users\hugov\source\repos\Colegio\Capa_Data\bin\Debug\Capa_Data.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Data\bin\Debug\Capa_Data.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Data\obj\Debug\Capa_Data.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Data\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Data\obj\Debug\Capa_Data.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Data\obj\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\obj\Debug\Capa_Data.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\obj\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Data\obj\Debug\Capa_Data.pdb

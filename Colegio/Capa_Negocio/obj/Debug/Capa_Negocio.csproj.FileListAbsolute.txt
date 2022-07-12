@@ -1,0 +1,18 @@
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\bin\Debug\Capa_Data.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\bin\Debug\Capa_Data.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

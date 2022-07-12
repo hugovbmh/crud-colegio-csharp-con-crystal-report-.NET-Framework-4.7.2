@@ -1,0 +1,100 @@
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Data.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\Capa_Data.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Form1.resources
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.exe
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\stdole.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hugov\source\repos\Colegio\Capa_Vista\obj\Debug\Capa_Vista.FrmReporteCliente.resources
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.pdb
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\AxShockwaveFlashObjects.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.Shared.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Data.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\stdole.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.pdb
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Data.pdb
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Form1.resources
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.FrmReporteCliente.resources
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.exe
+D:\hugov\Escritorio\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe.config
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.exe
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Vista.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\stdole.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Form1.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.FrmReporteCliente.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.exe
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\Actividad Entregable 2\Colegio\Capa_Vista\obj\Debug\Capa_Vista.pdb
