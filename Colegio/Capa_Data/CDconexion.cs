@@ -10,7 +10,7 @@ namespace Capa_Data
 {
     public class CDconexion
     {
-        private SqlConnection Conexion = new SqlConnection("server=HUGOMH\\SQLEXPRESS;database=Colegio;integrated security=true");
+        private SqlConnection Conexion = new SqlConnection("server=localhost;database=Colegio;integrated security=true");
     
         public SqlConnection AbrirConexion()
         {
